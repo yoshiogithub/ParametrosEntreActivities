@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParametrosEntreActivities</string>
+    <string name="app_Bienvenido">BIENVENIDO A LA APLICACIÓN</string>
+    <string name="app_nombreIngesado">Bienvenido : </string>
+</resources>
